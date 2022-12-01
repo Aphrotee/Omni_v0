@@ -1,0 +1,47 @@
+section{
+    background-image: url(../images/video-streaming-technology-overview.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+section div.one {
+    font-family: 'Lexend deca', sans-serif;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 20px;
+    color:rgb(160, 149, 173);
+}
+
+section div.two {
+    font-family: 'Lexend deca', sans-serif;
+    text-align: center;
+    padding-top: 65px;
+    margin-top: 20px;
+    font-size: 20px;
+    color:rgb(160, 149, 173);
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: rgb(31, 15, 46);
+    color:rgb(160, 149, 173);
+    border: 1px solid rgb(160, 149, 173);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-family: 'Lexend deca', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(160, 149, 173);
+    color:rgb(31, 15, 46);
+    border: 1px solid rgb(31, 15, 46);
+}

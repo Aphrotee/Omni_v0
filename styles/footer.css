@@ -1,0 +1,40 @@
+p {
+    color: rgb(24, 21, 23);
+    font-family: 'Lexend Deca', sans-serif;
+}
+footer {
+    padding: 30px 40px;
+    height: 100%;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: rgb(204, 151, 176);
+    background-color: rgb(31, 15, 46);
+}
+footer p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: rgb(199, 164, 187);
+    font-weight: 300;
+}
+.foot-nav {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 100%;
+    margin-right: 30px;
+    margin-top: 20px;
+    text-align: center;
+    color:rgb(204, 151, 176);
+}
+
+.foot-nav div{
+    margin: 10px 0;
+}
+.foot-nav a{
+    color:rgb(204, 151, 176);
+    text-decoration: none;
+}

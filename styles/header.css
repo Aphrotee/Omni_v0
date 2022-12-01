@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 700;
+    margin: 0;
+    background-color: rgb(31, 15, 46);
+}
+
+h1 {
+    margin-left: 30px;
+    color:azure;
+}
+
+.nav {
+    margin-right: 30px;
+    margin-top: 35px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.nav a{
+    color:rgb(130, 94, 172);
+    text-decoration: none;
+}
